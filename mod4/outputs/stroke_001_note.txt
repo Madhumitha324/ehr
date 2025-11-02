@@ -1,0 +1,13 @@
+Patient: stroke_001
+Automated Image Analysis Summary:
+ - age: 67.0000
+ - hypertension: 1.0000
+ - heart_disease: 0.0000
+ - avg_glucose_level: 210.5000
+ - bmi: 28.9000
+ - smoking_status: 2.0000
+
+Clinician notes / OCR extracted:
+CT scan shows left hemisphere ischemic stroke with partial speech impairment.
+
+Recommendation: Review enhanced images and correlate with clinical exam.
