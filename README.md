@@ -1,5 +1,12 @@
 # AI Enhanced EHR Imaging & Documentation System
 
+Project Goals
+The core aims of this initiative are twofold:
+
+Enhance Medical Imaging: Utilize GenAI to improve the clarity, interpretability, and reconstruction of medical images (e.g., X-rays, MRIs, CTs).
+Automate Clinical Documentation: Automate routine administrative tasks, including clinical documentation and ICD-10 coding.
+These enhancements are designed to minimize the time clinicians spend on non-clinical tasks, supporting faster, more accurate decision-making.The GenAI-driven components will be powered by Azure OpenAI.
+
 
 Module 1: Data Collection and Preprocessing
 
