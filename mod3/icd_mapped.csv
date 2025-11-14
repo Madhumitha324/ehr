@@ -1,0 +1,301 @@
+Patient_ID,icd_code,icd_desc,score
+Patient_001,,,
+Patient_002,,,
+Patient_003,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_004,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_005,I63.9,"Cerebral infarction, unspecified",100
+Patient_006,,,
+Patient_007,I63.9,"Cerebral infarction, unspecified",100
+Patient_008,,,
+Patient_009,,,
+Patient_010,I63.9,"Cerebral infarction, unspecified",100
+Patient_011,,,
+Patient_012,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_013,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_014,I63.9,"Cerebral infarction, unspecified",100
+Patient_015,,,
+Patient_016,I63.9,"Cerebral infarction, unspecified",100
+Patient_017,I63.9,"Cerebral infarction, unspecified",100
+Patient_018,I63.9,"Cerebral infarction, unspecified",100
+Patient_019,,,
+Patient_020,I63.9,"Cerebral infarction, unspecified",100
+Patient_021,I63.9,"Cerebral infarction, unspecified",100
+Patient_022,I63.9,"Cerebral infarction, unspecified",100
+Patient_023,,,
+Patient_024,I63.9,"Cerebral infarction, unspecified",100
+Patient_025,,,
+Patient_026,I63.9,"Cerebral infarction, unspecified",100
+Patient_027,I63.9,"Cerebral infarction, unspecified",100
+Patient_028,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_029,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_030,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_031,,,
+Patient_032,I63.9,"Cerebral infarction, unspecified",100
+Patient_033,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_034,I63.9,"Cerebral infarction, unspecified",100
+Patient_035,,,
+Patient_036,,,
+Patient_037,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_038,,,
+Patient_039,I63.9,"Cerebral infarction, unspecified",100
+Patient_040,,,
+Patient_041,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_042,I63.9,"Cerebral infarction, unspecified",100
+Patient_043,I63.9,"Cerebral infarction, unspecified",100
+Patient_044,,,
+Patient_045,I63.9,"Cerebral infarction, unspecified",100
+Patient_046,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_047,,,
+Patient_048,,,
+Patient_049,,,
+Patient_050,I63.9,"Cerebral infarction, unspecified",100
+Patient_051,I63.9,"Cerebral infarction, unspecified",100
+Patient_052,,,
+Patient_053,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_054,I63.9,"Cerebral infarction, unspecified",100
+Patient_055,I63.9,"Cerebral infarction, unspecified",100
+Patient_056,I63.9,"Cerebral infarction, unspecified",100
+Patient_057,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_058,,,
+Patient_059,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_060,,,
+Patient_061,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_062,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_063,,,
+Patient_064,,,
+Patient_065,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_066,,,
+Patient_067,,,
+Patient_068,I63.9,"Cerebral infarction, unspecified",100
+Patient_069,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_070,I63.9,"Cerebral infarction, unspecified",100
+Patient_071,,,
+Patient_072,I63.9,"Cerebral infarction, unspecified",100
+Patient_073,I63.9,"Cerebral infarction, unspecified",100
+Patient_074,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_075,I63.9,"Cerebral infarction, unspecified",100
+Patient_076,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_077,I63.9,"Cerebral infarction, unspecified",100
+Patient_078,,,
+Patient_079,I63.9,"Cerebral infarction, unspecified",100
+Patient_080,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_081,I63.9,"Cerebral infarction, unspecified",100
+Patient_082,I63.9,"Cerebral infarction, unspecified",100
+Patient_083,I63.9,"Cerebral infarction, unspecified",100
+Patient_084,,,
+Patient_085,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_086,I63.9,"Cerebral infarction, unspecified",100
+Patient_087,I63.9,"Cerebral infarction, unspecified",100
+Patient_088,I63.9,"Cerebral infarction, unspecified",100
+Patient_089,I63.9,"Cerebral infarction, unspecified",100
+Patient_090,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_091,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_092,I63.9,"Cerebral infarction, unspecified",100
+Patient_093,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_094,,,
+Patient_095,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_096,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_097,,,
+Patient_098,,,
+Patient_099,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_100,I63.9,"Cerebral infarction, unspecified",100
+Patient_101,I63.9,"Cerebral infarction, unspecified",100
+Patient_102,,,
+Patient_103,,,
+Patient_104,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_105,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_106,I63.9,"Cerebral infarction, unspecified",100
+Patient_107,,,
+Patient_108,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_109,,,
+Patient_110,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_111,I63.9,"Cerebral infarction, unspecified",100
+Patient_112,,,
+Patient_113,I63.9,"Cerebral infarction, unspecified",100
+Patient_114,,,
+Patient_115,,,
+Patient_116,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_117,I63.9,"Cerebral infarction, unspecified",100
+Patient_118,,,
+Patient_119,,,
+Patient_120,,,
+Patient_121,I63.9,"Cerebral infarction, unspecified",100
+Patient_122,I63.9,"Cerebral infarction, unspecified",100
+Patient_123,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_124,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_125,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_126,,,
+Patient_127,I63.9,"Cerebral infarction, unspecified",100
+Patient_128,,,
+Patient_129,I63.9,"Cerebral infarction, unspecified",100
+Patient_130,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_131,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_132,I63.9,"Cerebral infarction, unspecified",100
+Patient_133,I63.9,"Cerebral infarction, unspecified",100
+Patient_134,I63.9,"Cerebral infarction, unspecified",100
+Patient_135,I63.9,"Cerebral infarction, unspecified",100
+Patient_136,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_137,I63.9,"Cerebral infarction, unspecified",100
+Patient_138,,,
+Patient_139,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_140,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_141,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_142,,,
+Patient_143,,,
+Patient_144,,,
+Patient_145,,,
+Patient_146,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_147,,,
+Patient_148,,,
+Patient_149,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_150,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_151,,,
+Patient_152,I63.9,"Cerebral infarction, unspecified",100
+Patient_153,I63.9,"Cerebral infarction, unspecified",100
+Patient_154,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_155,,,
+Patient_156,I63.9,"Cerebral infarction, unspecified",100
+Patient_157,I63.9,"Cerebral infarction, unspecified",100
+Patient_158,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_159,,,
+Patient_160,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_161,,,
+Patient_162,,,
+Patient_163,I63.9,"Cerebral infarction, unspecified",100
+Patient_164,I63.9,"Cerebral infarction, unspecified",100
+Patient_165,,,
+Patient_166,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_167,,,
+Patient_168,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_169,I63.9,"Cerebral infarction, unspecified",100
+Patient_170,I63.9,"Cerebral infarction, unspecified",100
+Patient_171,I63.9,"Cerebral infarction, unspecified",100
+Patient_172,,,
+Patient_173,I63.9,"Cerebral infarction, unspecified",100
+Patient_174,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_175,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_176,,,
+Patient_177,,,
+Patient_178,,,
+Patient_179,I63.9,"Cerebral infarction, unspecified",100
+Patient_180,I63.9,"Cerebral infarction, unspecified",100
+Patient_181,,,
+Patient_182,I63.9,"Cerebral infarction, unspecified",100
+Patient_183,I63.9,"Cerebral infarction, unspecified",100
+Patient_184,I63.9,"Cerebral infarction, unspecified",100
+Patient_185,,,
+Patient_186,,,
+Patient_187,,,
+Patient_188,,,
+Patient_189,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_190,,,
+Patient_191,I63.9,"Cerebral infarction, unspecified",100
+Patient_192,,,
+Patient_193,,,
+Patient_194,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_195,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_196,I63.9,"Cerebral infarction, unspecified",100
+Patient_197,,,
+Patient_198,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_199,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_200,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_201,,,
+Patient_202,,,
+Patient_203,,,
+Patient_204,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_205,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_206,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_207,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_208,,,
+Patient_209,,,
+Patient_210,I63.9,"Cerebral infarction, unspecified",100
+Patient_211,,,
+Patient_212,I63.9,"Cerebral infarction, unspecified",100
+Patient_213,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_214,,,
+Patient_215,,,
+Patient_216,I63.9,"Cerebral infarction, unspecified",100
+Patient_217,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_218,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_219,,,
+Patient_220,I63.9,"Cerebral infarction, unspecified",100
+Patient_221,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_222,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_223,I63.9,"Cerebral infarction, unspecified",100
+Patient_224,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_225,,,
+Patient_226,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_227,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_228,,,
+Patient_229,I63.9,"Cerebral infarction, unspecified",100
+Patient_230,I63.9,"Cerebral infarction, unspecified",100
+Patient_231,,,
+Patient_232,I63.9,"Cerebral infarction, unspecified",100
+Patient_233,I63.9,"Cerebral infarction, unspecified",100
+Patient_234,I63.9,"Cerebral infarction, unspecified",100
+Patient_235,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_236,,,
+Patient_237,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_238,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_239,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_240,I63.9,"Cerebral infarction, unspecified",100
+Patient_241,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_242,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_243,,,
+Patient_244,I63.9,"Cerebral infarction, unspecified",100
+Patient_245,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_246,,,
+Patient_247,,,
+Patient_248,I63.9,"Cerebral infarction, unspecified",100
+Patient_249,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_250,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_251,,,
+Patient_252,,,
+Patient_253,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_254,,,
+Patient_255,I63.9,"Cerebral infarction, unspecified",100
+Patient_256,I63.9,"Cerebral infarction, unspecified",100
+Patient_257,,,
+Patient_258,I63.9,"Cerebral infarction, unspecified",100
+Patient_259,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_260,I63.9,"Cerebral infarction, unspecified",100
+Patient_261,I63.9,"Cerebral infarction, unspecified",100
+Patient_262,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_263,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_264,,,
+Patient_265,,,
+Patient_266,,,
+Patient_267,I63.9,"Cerebral infarction, unspecified",100
+Patient_268,,,
+Patient_269,I63.9,"Cerebral infarction, unspecified",100
+Patient_270,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_271,,,
+Patient_272,I63.9,"Cerebral infarction, unspecified",100
+Patient_273,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_274,,,
+Patient_275,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_276,I63.9,"Cerebral infarction, unspecified",100
+Patient_277,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_278,I63.9,"Cerebral infarction, unspecified",100
+Patient_279,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_280,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_281,,,
+Patient_282,,,
+Patient_283,,,
+Patient_284,I63.9,"Cerebral infarction, unspecified",100
+Patient_285,I63.9,"Cerebral infarction, unspecified",100
+Patient_286,,,
+Patient_287,I63.9,"Cerebral infarction, unspecified",100
+Patient_288,I63.9,"Cerebral infarction, unspecified",100
+Patient_289,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_290,I63.9,"Cerebral infarction, unspecified",100
+Patient_291,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_292,,,
+Patient_293,,,
+Patient_294,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_295,I63.9,"Cerebral infarction, unspecified",100
+Patient_296,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_297,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_298,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_299,I61.9,"Intracerebral hemorrhage, unspecified",100
+Patient_300,,,
