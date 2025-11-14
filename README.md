@@ -1,6 +1,7 @@
-# ehr
+# AI Enhanced EHR Imaging & Documentation System.
 
-# Stroke Diagnosis AI System
+
+# Stroke Diagnosis
 
 ## Overview
 This project is a multi-module AI system for stroke diagnosis using medical imaging and clinical data. It includes data collection, image enhancement, clinical note generation, ICD-10 coding automation, and deployment with a user-friendly interface.
