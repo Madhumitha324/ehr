@@ -78,17 +78,42 @@ Deploy AI models and integrate with clinical workflows.
 
 ## How to Run
 
-1. **Train Model:**  
-   Run `train.py` to train the stroke classification model.
 
-2. **Start Backend API:**  
-   Run `module4_backend.py` to launch the prediction server.
+---
 
-3. **Test API:**  
-   Run `test_api.py` to send sample images and get predictions.
+## Data Requirements
 
-4. **Start Frontend:**  
-   Run `python -m streamlit run module4_streamlit.py` to launch the user interface.
+### 1. ehr_data.csv
+- Contains overall patient data
+- Required columns (case-insensitive):  
+  - `patient_id`  
+  - `stroke_type`  
+  - `gender`  
+  - `date_of_scan`  
+  - `num_images` (optional)
+
+### 2. clinical_notes.csv
+- Contains clinical notes per patient  
+- Required columns:  
+  - `patient_id`  
+  - `clinical_note`  
+  - `ehr_text`  
+  - `image_findings`
+
+### 3. Patient Images
+- Stored under `/data/images/{patient_id}/`  
+- Supported formats: `.jpg`, `.jpeg`, `.png`
+
+---
+
+## How to Run
+
+1. **Install dependencies**:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
 
 ---
 
