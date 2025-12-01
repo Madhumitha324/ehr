@@ -177,4 +177,4 @@ Key Tasks:
 --Integrate the solution with existing hospital EHR systems for image processing and note generation.
 
 --Provide necessary onboarding and training sessions for medical staff to ensure effective use of the new tools.
->>>>>>> bcf3260d6b5b2d9ebe713db4351202a8a60fc034
+
